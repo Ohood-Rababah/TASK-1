@@ -1,0 +1,7 @@
+d:\Users\ohood\source\repos\c# lec1\c# lec1\obj\Debug\c# lec1.csproj.AssemblyReference.cache
+d:\Users\ohood\source\repos\c# lec1\c# lec1\obj\Debug\c# lec1.csproj.CoreCompileInputs.cache
+d:\Users\ohood\source\repos\c# lec1\c# lec1\bin\Debug\c# lec1.exe.config
+d:\Users\ohood\source\repos\c# lec1\c# lec1\bin\Debug\c# lec1.exe
+d:\Users\ohood\source\repos\c# lec1\c# lec1\bin\Debug\c# lec1.pdb
+d:\Users\ohood\source\repos\c# lec1\c# lec1\obj\Debug\c# lec1.exe
+d:\Users\ohood\source\repos\c# lec1\c# lec1\obj\Debug\c# lec1.pdb
